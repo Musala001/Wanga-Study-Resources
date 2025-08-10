@@ -26,7 +26,8 @@
     },
     "Economics": {
       "notes": [
-        { "title": "Economics study guide", "url": "notes/Economics/2b MTG Econ EN 18 Sept 2014.pdf" }
+        { "title": "Economics study guide", "url": "notes/Economics/2b MTG Econ EN 18 Sept 2014.pdf" },
+        { "title": "Economics Learner res", "url": "notes/Economics/Economics-GR12-Studyguide.pdf" }
       ],
       "papers": [
         { "title": "ECON 2024 P1", "url": "papers/Economics/Economics P1 Nov 2024 Eng.pdf" },
@@ -37,7 +38,8 @@
     },
     "Business": {
       "notes": [
-        { "title": "Business Studies study guide", "url": "notes/Business/FET Business Studies.pdf" }
+        { "title": "Business Studies study guide", "url": "notes/Business/FET Business Studies.pdf" },
+        { "title": "Business Studies learner resource material", "url": "notes/Business/BUSINESS-STUDIES-LEARNER-RESOURCE-MATERIAL-2020.pdf" }
       ],
       "papers": [
         { "title": "Business 2024 P1", "url": "papers/Business/Business Studies P1 Nov 2024 Eng.pdf" },
