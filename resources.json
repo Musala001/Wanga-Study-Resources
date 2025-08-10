@@ -1,0 +1,53 @@
+{
+    "Mathematics": {
+      "notes": [
+        { "title": "Math Study Guide", "url": "notes/Mathematics/MTG Math Gr 12 Web.pdf" }
+      ],
+      "papers": [
+        { "title": "Math 2024 P1", "url": "papers/Mathematics/Mathematics P1 Nov 2024 Eng.pdf" },
+        { "title": "Math 2024 P1 memo", "url": "papers/Mathematics/Mathematics P1 Nov 2024 MG Afr & Eng.pdf" },
+        { "title": "Math 2024 P2", "url": "papers/Mathematics/Mathematics P2 Nov 2024 Eng.pdf" },
+        { "title": "Math 2024 P2 memo", "url": "papers/Mathematics/Mathematics P2 Nov 2024 MG Afr & Eng.pdf" }
+      ],
+      "videos": [
+        {
+          "title": "Probability basics",
+          "url": "https://www.youtube.com/embed/SkidyDQuupA"
+        }
+      ]
+    },
+    "Economics": {
+      "notes": [
+        { "title": "Economics study guide", "url": "notes/Economics/2b MTG Econ EN 18 Sept 2014.pdf" }
+      ],
+      "papers": [
+        { "title": "ECON 2024 P1", "url": "papers/Economics/Economics P1 Nov 2024 Eng.pdf" },
+        { "title": "Econ 2024 P1 memo", "url": "papers/Economics/Economics P1 Nov 2024 MG Eng.pdf" },
+        { "title": "Econ 2024 P2", "url": "papers/Economics/Economics P2 Nov 2024 Eng.pdf" },
+        { "title": "Econ 2024 P2 memo", "url": "papers/Economics/Economics P2 Nov 2024 MG Eng.pdf" }
+      ]
+    },
+    "Business": {
+      "notes": [
+        { "title": "Business Management", "url": "notes/Business/biz_mgmt.pdf" }
+      ],
+      "papers": [
+        { "title": "Business 2024 P1", "url": "papers/Business/Business Studies P1 Nov 2024 Eng.pdf" },
+        { "title": "Business 2024 P1 memo", "url": "papers/Business/Business Studies P1 Nov 2024 MG Eng.pdf" },
+        { "title": "Business 2024 P2", "url": "papers/Business/Business Studies P2 Nov 2024 Eng.pdf" },
+        { "title": "Business 2024 P2 memo", "url": "papers/Business/Business Studies P2 Nov 2024 MG Eng.pdf" }
+      ]
+    },
+    "Accounting": {
+      "notes": [
+        { "title": "Accounting study guide", "url": "notes/Accounting/1b MTG Accounting EN 18 Sept 2014.pdf" }
+      ],
+      "papers": [
+        { "title": "Accounting 2024 P1", "url": "papers/Accounting/Accounting P1 Nov 2024 Eng.pdf" },
+        { "title": "Accounting 2024 P1 memo", "url": "papers/Accounting/Accounting P1 Nov 2024 MG Eng.pdf" },
+        { "title": "Accounting 2024 P2", "url": "papers/Accounting/Accounting P2 Nov 2024 Eng.pdf" },
+        { "title": "Accounting 2024 P2 memo", "url": "papers/Accounting/Accounting P2 Nov 2024 MG Eng.pdf" }
+      ]
+    }
+  }
+  
