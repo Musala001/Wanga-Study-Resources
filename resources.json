@@ -12,7 +12,15 @@
       "videos": [
         {
           "title": "Probability basics",
-          "url": "https://www.youtube.com/embed/SkidyDQuupA"
+          "url": "https://www.youtube.com/embed/SkidyDQuupA" 
+        },
+        {
+          "title": "Trig Functions",
+          "url": "https://www.youtube.com/embed/fo_q9mEAFp4" 
+        },
+        {
+          "title": "Statistics",
+          "url": "https://www.youtube.com/embed/XZo4xyJXCak&t=3s" 
         }
       ]
     },
@@ -29,7 +37,7 @@
     },
     "Business": {
       "notes": [
-        { "title": "Business Management", "url": "notes/Business/biz_mgmt.pdf" }
+        { "title": "Business Studies study guide", "url": "notes/Business/FET Business Studies.pdf" }
       ],
       "papers": [
         { "title": "Business 2024 P1", "url": "papers/Business/Business Studies P1 Nov 2024 Eng.pdf" },
