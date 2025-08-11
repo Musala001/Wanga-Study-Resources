@@ -1,63 +1,626 @@
 {
-    "Mathematics": {
-      "notes": [
-        { "title": "Math Study Guide", "url": "notes/Mathematics/MTG Math Gr 12 Web.pdf" }
-      ],
-      "papers": [
-        { "title": "Math 2024 P1", "url": "papers/Mathematics/Mathematics P1 Nov 2024 Eng.pdf" },
-        { "title": "Math 2024 P1 memo", "url": "papers/Mathematics/Mathematics P1 Nov 2024 MG Afr & Eng.pdf" },
-        { "title": "Math 2024 P2", "url": "papers/Mathematics/Mathematics P2 Nov 2024 Eng.pdf" },
-        { "title": "Math 2024 P2 memo", "url": "papers/Mathematics/Mathematics P2 Nov 2024 MG Afr & Eng.pdf" }
-      ],
-      "videos": [
-        {
-          "title": "Probability basics",
-          "url": "https://www.youtube.com/embed/SkidyDQuupA" 
-        },
-        {
-          "title": "Trig Functions",
-          "url": "https://www.youtube.com/embed/fo_q9mEAFp4" 
-        },
-        {
-          "title": "Statistics",
-          "url": "https://www.youtube.com/embed/XZo4xyJXCak&t=3s" 
-        }
-      ]
-    },
-    "Economics": {
-      "notes": [
-        { "title": "Economics study guide", "url": "notes/Economics/2b MTG Econ EN 18 Sept 2014.pdf" },
-        { "title": "Economics Learner res", "url": "notes/Economics/Economics-GR12-Studyguide.pdf" }
-      ],
-      "papers": [
-        { "title": "ECON 2024 P1", "url": "papers/Economics/Economics P1 Nov 2024 Eng.pdf" },
-        { "title": "Econ 2024 P1 memo", "url": "papers/Economics/Economics P1 Nov 2024 MG Eng.pdf" },
-        { "title": "Econ 2024 P2", "url": "papers/Economics/Economics P2 Nov 2024 Eng.pdf" },
-        { "title": "Econ 2024 P2 memo", "url": "papers/Economics/Economics P2 Nov 2024 MG Eng.pdf" }
-      ]
-    },
-    "Business": {
-      "notes": [
-        { "title": "Business Studies study guide", "url": "notes/Business/FET Business Studies.pdf" },
-        { "title": "Business Studies learner resource material", "url": "notes/Business/BUSINESS-STUDIES-LEARNER-RESOURCE-MATERIAL-2020.pdf" }
-      ],
-      "papers": [
-        { "title": "Business 2024 P1", "url": "papers/Business/Business Studies P1 Nov 2024 Eng.pdf" },
-        { "title": "Business 2024 P1 memo", "url": "papers/Business/Business Studies P1 Nov 2024 MG Eng.pdf" },
-        { "title": "Business 2024 P2", "url": "papers/Business/Business Studies P2 Nov 2024 Eng.pdf" },
-        { "title": "Business 2024 P2 memo", "url": "papers/Business/Business Studies P2 Nov 2024 MG Eng.pdf" }
-      ]
-    },
-    "Accounting": {
-      "notes": [
-        { "title": "Accounting study guide", "url": "notes/Accounting/1b MTG Accounting EN 18 Sept 2014.pdf" }
-      ],
-      "papers": [
-        { "title": "Accounting 2024 P1", "url": "papers/Accounting/Accounting P1 Nov 2024 Eng.pdf" },
-        { "title": "Accounting 2024 P1 memo", "url": "papers/Accounting/Accounting P1 Nov 2024 MG Eng.pdf" },
-        { "title": "Accounting 2024 P2", "url": "papers/Accounting/Accounting P2 Nov 2024 Eng.pdf" },
-        { "title": "Accounting 2024 P2 memo", "url": "papers/Accounting/Accounting P2 Nov 2024 MG Eng.pdf" }
-      ]
-    }
+  "Accounting": {
+    "notes": [
+      {
+        "title": "1b MTG Accounting EN 18 Sept 2014",
+        "url": "notes/Accounting/1b MTG Accounting EN 18 Sept 2014.pdf"
+      }
+    ],
+    "papers": [
+      {
+        "title": "Accounting P1 May June 2021 Eng",
+        "url": "papers/Accounting/Accounting P1 May-June 2021 Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 May June 2021 MG Eng",
+        "url": "papers/Accounting/Accounting P1 May-June 2021 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 May June 2022 MG Eng",
+        "url": "papers/Accounting/Accounting P1 May-June 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 May June 2022 QP Eng",
+        "url": "papers/Accounting/Accounting P1 May-June 2022 QP Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 May June 2023 Eng",
+        "url": "papers/Accounting/Accounting P1 May-June 2023 Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 May June 2023 MG Eng",
+        "url": "papers/Accounting/Accounting P1 May-June 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 May June 2024 Eng",
+        "url": "papers/Accounting/Accounting P1 May-June 2024 Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 May June 2024 MG Eng",
+        "url": "papers/Accounting/Accounting P1 May-June 2024 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 Nov 2020 Memo Eng (2)",
+        "url": "papers/Accounting/Accounting P1 Nov 2020 Memo Eng (2).pdf"
+      },
+      {
+        "title": "Accounting P1 Nov 2021 Eng",
+        "url": "papers/Accounting/Accounting P1 Nov 2021 Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 Nov 2021 MG Eng",
+        "url": "papers/Accounting/Accounting P1 Nov 2021 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 Nov 2022 Eng",
+        "url": "papers/Accounting/Accounting P1 Nov 2022 Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 Nov 2022 MG Eng",
+        "url": "papers/Accounting/Accounting P1 Nov 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 Nov 2023 Eng",
+        "url": "papers/Accounting/Accounting P1 Nov 2023 Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 Nov 2023 MG Eng",
+        "url": "papers/Accounting/Accounting P1 Nov 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 Nov 2024 Eng",
+        "url": "papers/Accounting/Accounting P1 Nov 2024 Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 Nov 2024 MG Eng",
+        "url": "papers/Accounting/Accounting P1 Nov 2024 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P1 NSC Nov 2020 Eng (2)",
+        "url": "papers/Accounting/Accounting P1 NSC Nov 2020 Eng (2).pdf"
+      },
+      {
+        "title": "Accounting P2 May June 2021 Eng",
+        "url": "papers/Accounting/Accounting P2 May-June 2021 Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 May June 2021 MG Eng",
+        "url": "papers/Accounting/Accounting P2 May-June 2021 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 May June 2022 MG Eng",
+        "url": "papers/Accounting/Accounting P2 May-June 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 May June 2022 QP Eng",
+        "url": "papers/Accounting/Accounting P2 May-June 2022 QP Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 May June 2023 Eng",
+        "url": "papers/Accounting/Accounting P2 May-June 2023 Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 May June 2023 MG Eng",
+        "url": "papers/Accounting/Accounting P2 May-June 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 May June 2024 Eng",
+        "url": "papers/Accounting/Accounting P2 May-June 2024 Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 May June 2024 MG Eng",
+        "url": "papers/Accounting/Accounting P2 May-June 2024 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 Nov 2020 Memo Eng (2)",
+        "url": "papers/Accounting/Accounting P2 Nov 2020 Memo Eng (2).pdf"
+      },
+      {
+        "title": "Accounting P2 Nov 2021 Eng",
+        "url": "papers/Accounting/Accounting P2 Nov 2021 Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 Nov 2021 MG Eng",
+        "url": "papers/Accounting/Accounting P2 Nov 2021 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 Nov 2022 Eng",
+        "url": "papers/Accounting/Accounting P2 Nov 2022 Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 Nov 2022 MG Eng",
+        "url": "papers/Accounting/Accounting P2 Nov 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 Nov 2023 Eng",
+        "url": "papers/Accounting/Accounting P2 Nov 2023 Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 Nov 2023 MG Eng",
+        "url": "papers/Accounting/Accounting P2 Nov 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 Nov 2024 Eng",
+        "url": "papers/Accounting/Accounting P2 Nov 2024 Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 Nov 2024 MG Eng",
+        "url": "papers/Accounting/Accounting P2 Nov 2024 MG Eng.pdf"
+      },
+      {
+        "title": "Accounting P2 NSC Nov 2020 Eng (2)",
+        "url": "papers/Accounting/Accounting P2 NSC Nov 2020 Eng (2).pdf"
+      }
+    ]
+  },
+  "Business": {
+    "notes": [
+      {
+        "title": "BUSINESS STUDIES LEARNER RESOURCE MATERIAL 2020",
+        "url": "notes/Business/BUSINESS-STUDIES-LEARNER-RESOURCE-MATERIAL-2020.pdf"
+      },
+      {
+        "title": "FET Business Studies",
+        "url": "notes/Business/FET Business Studies.pdf"
+      }
+    ],
+    "papers": [
+      {
+        "title": "Busienss Studies P1 May June 2024 Eng",
+        "url": "papers/Business/Busienss Studies P1 May-June 2024 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 May June 2021 Eng (1)",
+        "url": "papers/Business/Business Studies P1 May-June 2021 Eng (1).pdf"
+      },
+      {
+        "title": "Business Studies P1 May June 2021 Eng",
+        "url": "papers/Business/Business Studies P1 May-June 2021 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 May June 2021 MG Eng (1)",
+        "url": "papers/Business/Business Studies P1 May-June 2021 MG Eng (1).pdf"
+      },
+      {
+        "title": "Business Studies P1 May June 2021 MG Eng",
+        "url": "papers/Business/Business Studies P1 May-June 2021 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 May June 2022 Eng",
+        "url": "papers/Business/Business Studies P1 May-June 2022 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 May June 2022 MG Eng",
+        "url": "papers/Business/Business Studies P1 May-June 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 May June 2023 Eng",
+        "url": "papers/Business/Business Studies P1 May-June 2023 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 May June 2023 MG Eng",
+        "url": "papers/Business/Business Studies P1 May-June 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 May June 2024 MG Eng",
+        "url": "papers/Business/Business Studies P1 May-June 2024 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 Nov 2020 Eng",
+        "url": "papers/Business/Business Studies P1 Nov 2020 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 Nov 2022 Eng",
+        "url": "papers/Business/Business Studies P1 Nov 2022 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 Nov 2022 MG Eng",
+        "url": "papers/Business/Business Studies P1 Nov 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 Nov 2023 Eng",
+        "url": "papers/Business/Business Studies P1 Nov 2023 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 Nov 2023 MG Eng",
+        "url": "papers/Business/Business Studies P1 Nov 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 Nov 2024 Eng",
+        "url": "papers/Business/Business Studies P1 Nov 2024 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 Nov 2024 MG Eng",
+        "url": "papers/Business/Business Studies P1 Nov 2024 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P1 NSC Nov 2020 Eng",
+        "url": "papers/Business/Business Studies P1 NSC Nov 2020 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 May June 2021 Eng",
+        "url": "papers/Business/Business Studies P2 May-June 2021 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 May June 2021 MG Eng",
+        "url": "papers/Business/Business Studies P2 May-June 2021 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 May June 2022 Eng",
+        "url": "papers/Business/Business Studies P2 May-June 2022 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 May June 2022 MG Eng",
+        "url": "papers/Business/Business Studies P2 May-June 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 May June 2023 Eng",
+        "url": "papers/Business/Business Studies P2 May-June 2023 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 May June 2023 MG Eng",
+        "url": "papers/Business/Business Studies P2 May-June 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 May June 2024 Eng",
+        "url": "papers/Business/Business Studies P2 May-June 2024 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 May June 2024 MG Eng",
+        "url": "papers/Business/Business Studies P2 May-June 2024 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 Nov 2020 Eng",
+        "url": "papers/Business/Business Studies P2 Nov 2020 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 Nov 2021 Eng",
+        "url": "papers/Business/Business Studies P2 Nov 2021 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 Nov 2021 MG Eng",
+        "url": "papers/Business/Business Studies P2 Nov 2021 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 Nov 2022 Eng",
+        "url": "papers/Business/Business Studies P2 Nov 2022 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 Nov 2022 MG Eng",
+        "url": "papers/Business/Business Studies P2 Nov 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 Nov 2023 Eng",
+        "url": "papers/Business/Business Studies P2 Nov 2023 Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 Nov 2023 MG Eng",
+        "url": "papers/Business/Business Studies P2 Nov 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 Nov 2024  Eng",
+        "url": "papers/Business/Business Studies P2 Nov 2024  Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 Nov 2024 MG Eng",
+        "url": "papers/Business/Business Studies P2 Nov 2024 MG Eng.pdf"
+      },
+      {
+        "title": "Business Studies P2 NSC Nov 2020 Eng (2)",
+        "url": "papers/Business/Business Studies P2 NSC Nov 2020 Eng (2).pdf"
+      }
+    ]
+  },
+  "Economics": {
+    "notes": [
+      {
+        "title": "2b MTG Econ EN 18 Sept 2014",
+        "url": "notes/Economics/2b MTG Econ EN 18 Sept 2014.pdf"
+      },
+      {
+        "title": "Economics GR12 Studyguide",
+        "url": "notes/Economics/Economics-GR12-Studyguide.pdf"
+      }
+    ],
+    "papers": [
+      {
+        "title": "Economics P1 May June 2021 Eng",
+        "url": "papers/Economics/Economics P1 May-June 2021 Eng.pdf"
+      },
+      {
+        "title": "Economics P1 May June 2021 MG Eng",
+        "url": "papers/Economics/Economics P1 May-June 2021 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P1 May June 2022 Eng",
+        "url": "papers/Economics/Economics P1 May-June 2022 Eng.pdf"
+      },
+      {
+        "title": "Economics P1 May June 2022 MG Eng",
+        "url": "papers/Economics/Economics P1 May-June 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P1 May June 2023 Eng",
+        "url": "papers/Economics/Economics P1 May-June 2023 Eng.pdf"
+      },
+      {
+        "title": "Economics P1 May June 2023 MG Eng",
+        "url": "papers/Economics/Economics P1 May-June 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P1 May June 2024 Eng",
+        "url": "papers/Economics/Economics P1 May-June 2024 Eng.pdf"
+      },
+      {
+        "title": "Economics P1 May June 2024 MG Eng.docx",
+        "url": "papers/Economics/Economics P1 May-June 2024 MG Eng.docx.pdf"
+      },
+      {
+        "title": "Economics P1 Nov 2020 Eng",
+        "url": "papers/Economics/Economics P1 Nov 2020 Eng.pdf"
+      },
+      {
+        "title": "Economics P1 Nov 2020 Memo Eng",
+        "url": "papers/Economics/Economics P1 Nov 2020 Memo Eng.pdf"
+      },
+      {
+        "title": "Economics P1 Nov 2021 Eng",
+        "url": "papers/Economics/Economics P1 Nov 2021 Eng.pdf"
+      },
+      {
+        "title": "Economics P1 Nov 2021 MG Eng",
+        "url": "papers/Economics/Economics P1 Nov 2021 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P1 Nov 2022 Eng",
+        "url": "papers/Economics/Economics P1 Nov 2022 Eng.pdf"
+      },
+      {
+        "title": "Economics P1 Nov 2022 MG Eng",
+        "url": "papers/Economics/Economics P1 Nov 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P1 Nov 2023 Eng",
+        "url": "papers/Economics/Economics P1 Nov 2023 Eng.pdf"
+      },
+      {
+        "title": "Economics P1 Nov 2023 MG Eng",
+        "url": "papers/Economics/Economics P1 Nov 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P1 Nov 2024 Eng",
+        "url": "papers/Economics/Economics P1 Nov 2024 Eng.pdf"
+      },
+      {
+        "title": "Economics P1 Nov 2024 MG Eng",
+        "url": "papers/Economics/Economics P1 Nov 2024 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P2 May June 2021 Eng",
+        "url": "papers/Economics/Economics P2 May-June 2021 Eng.pdf"
+      },
+      {
+        "title": "Economics P2 May June 2021 MG Eng",
+        "url": "papers/Economics/Economics P2 May-June 2021 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P2 May June 2022 Eng",
+        "url": "papers/Economics/Economics P2 May-June 2022 Eng.pdf"
+      },
+      {
+        "title": "Economics P2 May June 2022 MG Eng",
+        "url": "papers/Economics/Economics P2 May-June 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P2 May June 2023 Eng",
+        "url": "papers/Economics/Economics P2 May-June 2023 Eng.pdf"
+      },
+      {
+        "title": "Economics P2 May June 2023 MG Eng",
+        "url": "papers/Economics/Economics P2 May-June 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P2 May June 2024 Eng",
+        "url": "papers/Economics/Economics P2 May-June 2024 Eng.pdf"
+      },
+      {
+        "title": "Economics P2 May June 2024 MG Eng",
+        "url": "papers/Economics/Economics P2 May-June 2024 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P2 Nov 2020 Eng",
+        "url": "papers/Economics/Economics P2 Nov 2020 Eng.pdf"
+      },
+      {
+        "title": "Economics P2 Nov 2020 Memo Eng",
+        "url": "papers/Economics/Economics P2 Nov 2020 Memo Eng.pdf"
+      },
+      {
+        "title": "Economics P2 Nov 2021 Eng",
+        "url": "papers/Economics/Economics P2 Nov 2021 Eng.pdf"
+      },
+      {
+        "title": "Economics P2 Nov 2021 MG Eng",
+        "url": "papers/Economics/Economics P2 Nov 2021 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P2 Nov 2022 Eng",
+        "url": "papers/Economics/Economics P2 Nov 2022 Eng.pdf"
+      },
+      {
+        "title": "Economics P2 Nov 2022 MG Eng",
+        "url": "papers/Economics/Economics P2 Nov 2022 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P2 Nov 2023 Eng",
+        "url": "papers/Economics/Economics P2 Nov 2023 Eng.pdf"
+      },
+      {
+        "title": "Economics P2 Nov 2023 MG Eng",
+        "url": "papers/Economics/Economics P2 Nov 2023 MG Eng.pdf"
+      },
+      {
+        "title": "Economics P2 Nov 2024 Eng",
+        "url": "papers/Economics/Economics P2 Nov 2024 Eng.pdf"
+      },
+      {
+        "title": "Economics P2 Nov 2024 MG Eng",
+        "url": "papers/Economics/Economics P2 Nov 2024 MG Eng.pdf"
+      }
+    ]
+  },
+  "Mathematics": {
+    "notes": [
+      {
+        "title": "MTG Math Gr 12 Web",
+        "url": "notes/Mathematics/MTG Math Gr 12 Web.pdf"
+      }
+    ],
+    "papers": [
+      {
+        "title": "Mathematics P1 May June 2021 Eng",
+        "url": "papers/Mathematics/Mathematics P1 May-June 2021 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 May June 2021 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P1 May-June 2021 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 May June 2022 Eng",
+        "url": "papers/Mathematics/Mathematics P1 May-June 2022 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 May June 2022 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P1 May-June 2022 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 May June 2023 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P1 May-June 2023 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 May June 2024 Eng",
+        "url": "papers/Mathematics/Mathematics P1 May-June 2024 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 May June 2024 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P1 May-June 2024 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 Nov 2020 Eng",
+        "url": "papers/Mathematics/Mathematics P1 Nov 2020 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 Nov 2020 Memo Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P1 Nov 2020 Memo Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 Nov 2021 Eng",
+        "url": "papers/Mathematics/Mathematics P1 Nov 2021 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 Nov 2021 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P1 Nov 2021 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 Nov 2022 Eng",
+        "url": "papers/Mathematics/Mathematics P1 Nov 2022 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 Nov 2022 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P1 Nov 2022 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 Nov 2023 Eng (1)",
+        "url": "papers/Mathematics/Mathematics P1 Nov 2023 Eng (1).pdf"
+      },
+      {
+        "title": "Mathematics P1 Nov 2023 Eng",
+        "url": "papers/Mathematics/Mathematics P1 Nov 2023 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 Nov 2023 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P1 Nov 2023 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 Nov 2024 Eng",
+        "url": "papers/Mathematics/Mathematics P1 Nov 2024 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P1 Nov 2024 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P1 Nov 2024 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 May June 2021 Eng",
+        "url": "papers/Mathematics/Mathematics P2 May-June 2021 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 May June 2021 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P2 May-June 2021 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 May June 2022 Eng",
+        "url": "papers/Mathematics/Mathematics P2 May-June 2022 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 May June 2022 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P2 May-June 2022 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 May June 2023 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P2 May-June 2023 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 May June 2024 Eng",
+        "url": "papers/Mathematics/Mathematics P2 May-June 2024 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 May June 2024 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P2 May-June 2024 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 Nov 2020 Eng",
+        "url": "papers/Mathematics/Mathematics P2 Nov 2020 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 Nov 2020 Memo Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P2 Nov 2020 Memo Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 Nov 2021 Eng",
+        "url": "papers/Mathematics/Mathematics P2 Nov 2021 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 Nov 2021 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P2 Nov 2021 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 Nov 2022 Eng",
+        "url": "papers/Mathematics/Mathematics P2 Nov 2022 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 Nov 2022 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P2 Nov 2022 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 Nov 2023 Eng (1)",
+        "url": "papers/Mathematics/Mathematics P2 Nov 2023 Eng (1).pdf"
+      },
+      {
+        "title": "Mathematics P2 Nov 2023 Eng",
+        "url": "papers/Mathematics/Mathematics P2 Nov 2023 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 Nov 2023 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P2 Nov 2023 MG Afr & Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 Nov 2024 Eng",
+        "url": "papers/Mathematics/Mathematics P2 Nov 2024 Eng.pdf"
+      },
+      {
+        "title": "Mathematics P2 Nov 2024 MG Afr & Eng",
+        "url": "papers/Mathematics/Mathematics P2 Nov 2024 MG Afr & Eng.pdf"
+      }
+    ]
   }
-  
+}
